@@ -1,0 +1,27 @@
+rcp,ssp,tp_used,tdamage,persist,omh,amoc,saf
+RCP4.5,SSP2,all,coacch_distribution,1.0,none,none,Distribution mean
+RCP4.5,SSP2,none,coacch_distribution,1.0,none,none,Distribution mean
+RCP3-PD/2.6,SSP2,all,coacch_distribution,1.0,none,none,Distribution mean
+RCP3-PD/2.6,SSP2,none,coacch_distribution,1.0,none,none,Distribution mean
+RCP8.5,SSP2,all,coacch_distribution,1.0,none,none,Distribution mean
+RCP8.5,SSP2,none,coacch_distribution,1.0,none,none,Distribution mean
+RCP4.5,SSP5,all,coacch_distribution,1.0,none,none,Distribution mean
+RCP4.5,SSP5,none,coacch_distribution,1.0,none,none,Distribution mean
+RCP3-PD/2.6,SSP5,all,coacch_distribution,1.0,none,none,Distribution mean
+RCP3-PD/2.6,SSP5,none,coacch_distribution,1.0,none,none,Distribution mean
+RCP8.5,SSP5,all,coacch_distribution,1.0,none,none,Distribution mean
+RCP8.5,SSP5,none,coacch_distribution,1.0,none,none,Distribution mean
+RCP4.5,SSP2,OMH,coacch_distribution,1.0,default,none,Distribution mean
+RCP4.5,SSP2,PCF,coacch_distribution,1.0,none,none,Distribution mean
+RCP4.5,SSP2,GIS,coacch_distribution,1.0,none,none,Distribution mean
+RCP4.5,SSP2,WAIS,coacch_distribution,1.0,none,none,Distribution mean
+RCP4.5,SSP2,AMAZ,coacch_distribution,1.0,none,none,Distribution mean
+RCP4.5,SSP2,ISM,coacch_distribution,1.0,none,none,Distribution mean
+RCP4.5,SSP2,all,bhm_distribution,0.0,none,none,Distribution mean
+RCP4.5,SSP2,none,bhm_distribution,0.0,none,none,Distribution mean
+RCP4.5,SSP2,all,bhm_distribution,Distribution,none,none,Distribution mean
+RCP4.5,SSP2,none,bhm_distribution,Distribution,none,none,Distribution mean
+RCP4.5,SSP2,all,coacch_distribution,1.0,default,IPSL,Distribution mean
+RCP4.5,SSP2,none,coacch_distribution,1.0,none,none,none
+RCP4.5,SSP2,all,coacch_distribution,1.0,none,Cai,Distribution mean
+RCP8.5,SSP2,all,coacch_distribution,1.0,none,Cai,Distribution mean
